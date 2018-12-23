@@ -1,0 +1,7 @@
+name: PvPSwap
+author: Neferett
+version: 1.0.1
+main: net.neferett.linaris.pvpswap.PvPSwapPlugin
+commands:
+  pvpswap:
+    permission: pvpswap.admin
